@@ -499,14 +499,14 @@ button {
     /* margin-top: 16px; */
 }
 
-.footer-social-media {
+/* .footer-soc-text {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #fff;
     margin-bottom: 16px;
-}
+} */
 
 .footer-soc-link {
     display: flex;
@@ -532,4 +532,14 @@ button {
 .footer-soc-item {
     width: 40px;
     height: 40px;
+}
+
+.subscribe-text {
+    margin-bottom: 16px;
+    flex-direction: column;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #ffffff;
 }
