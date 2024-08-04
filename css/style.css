@@ -494,19 +494,11 @@ button {
 
 .footer-soc-container {
     /* align-items: baseline; */
-    display: flex;
-    gap: 16px;
+    /* display: flex; */
+    /* gap: 16px; */
     /* margin-top: 16px; */
 }
 
-/* .footer-soc-text {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #fff;
-    margin-bottom: 16px;
-} */
 
 .footer-soc-link {
     display: flex;
@@ -534,9 +526,9 @@ button {
     height: 40px;
 }
 
-.subscribe-text {
+.footer-soc-text {
     margin-bottom: 16px;
-    flex-direction: column;
+    /* flex-direction: column; */
     font-weight: 500;
     font-size: 16px;
     line-height: 150%;
