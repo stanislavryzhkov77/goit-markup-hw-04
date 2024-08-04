@@ -22,10 +22,12 @@ h3 {
     color: #2e2f42;
 }
 
+/*
 p {
     line-height: 1.5;
     letter-spacing: 0.02em;
-}
+} 
+*/
 
 img {
     display: block;
@@ -483,15 +485,15 @@ button {
 .footer-logo-color {
     color: #f4f4fd;
 }
-
+/*
 .footer-text {
-    margin-bottom: 16px;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
     max-width: 264px;
+    margin-bottom: 16px;
 
 }
 
@@ -503,6 +505,7 @@ button {
     color: #fff;
     margin-bottom: 16px;
 }
+*/  
 .footer-soc-container {
     /* align-items: baseline; */
     display: flex;
