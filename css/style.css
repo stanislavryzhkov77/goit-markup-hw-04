@@ -22,12 +22,10 @@ h3 {
     color: #2e2f42;
 }
 
-/*
 p {
     line-height: 1.5;
     letter-spacing: 0.02em;
 } 
-*/
 
 img {
     display: block;
@@ -484,12 +482,15 @@ button {
 }
 
 .footer-text {
-    font-weight: 400;
+    font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #f4f4fd;
-    max-width: 264px;
+    color: #fff;
+    margin-top: 0;
+    margin-bottom: 16px;
+    padding-bottom: 3px;
+    padding-top: 0;
 }
 
 .footer-soc-container {
@@ -527,11 +528,13 @@ button {
 }
 
 .footer-soc-text {
-    margin-bottom: 16px;
-    /* flex-direction: column; */
     font-weight: 500;
     font-size: 16px;
-    line-height: 150%;
+    line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #ffffff;
+    color: #fff;
+    margin-top: 0;
+    margin-bottom: 16px;
+    padding-bottom: 3px;
+    padding-top: 0;
 }
