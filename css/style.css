@@ -478,7 +478,6 @@ button {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-    margin-bottom: 16px;
 }
 
 .footer-logo-color {
@@ -494,20 +493,20 @@ button {
     max-width: 264px;
 }
 
-.footer-soc-text {
-    margin-bottom: 16px;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #fff;
-}
-
 .footer-soc-container {
     /* align-items: baseline; */
     display: flex;
     gap: 16px;
     margin-top: 16px;
+}
+
+.footer-soc-text {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #fff;
+    margin-bottom: 16px;
 }
 
 .footer-soc-link {
