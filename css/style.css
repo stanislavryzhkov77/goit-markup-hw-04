@@ -485,7 +485,7 @@ button {
 .footer-logo-color {
     color: #f4f4fd;
 }
-/*
+ 
 .footer-text {
     font-weight: 400;
     font-size: 16px;
@@ -496,7 +496,7 @@ button {
     margin-bottom: 16px;
 
 }
-*/
+ 
 .footer-soc-text {
     font-weight: 500;
     font-size: 16px;
@@ -508,9 +508,9 @@ button {
 
 .footer-soc-container {
     /* align-items: baseline; */
-    display: flex;
+    /* display: flex; */
     gap: 16px;
-    margin-top: 16px;
+    /* margin-top: 16px; */
 }
 
 .footer-soc-link {
